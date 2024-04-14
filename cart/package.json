@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "faker": "^6.6.6",
     "html-webpack-plugin": "^5.6.0",
     "webpack": "^5.91.0"
   },
